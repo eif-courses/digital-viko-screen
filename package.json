@@ -9,8 +9,13 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.12",
-    "primevue": "3.17.0",
     "primeflex": "3.2.1",
-    "primeicons": "5.0.0"
+    "primeicons": "5.0.0",
+    "primevue": "3.17.0"
+  },
+  "dependencies": {
+    "@nuxtjs/supabase": "^0.2.2",
+    "simple-keyboard": "^3.4.180",
+    "vuex": "^4.0.2"
   }
 }
